@@ -14,7 +14,7 @@ A reminder iOS app from PluralSight instruction
 - More of a shift away from explicit hard coding by putting tasks in arrays and filling the list using foreach.
 - Nice visual separation of "Nightly", "Weekly", and "Monthly" tasks by use of sections.
 
-## NavigationView (Current 5-28-23)
+## NavigationView (5-28-23)
 ![Swift language on left side of screen with the iPhone simulation on the right half](/Images/NavigationView.png)
 ### Features
 - Implmented multiple screens (views) using NavigationViews
@@ -22,9 +22,15 @@ A reminder iOS app from PluralSight instruction
 - Put text content from arrays into NavigationLink
 - Extracted subviews to clean up code and moved one view to its own file
 
-## Finished App Will Have:
-- List views
-- Multiple screens w/ navigation between screens
-- Interactivity for list options including swipe gestures
-- Adaptive layouts and appearance
-- App architecture
+## NavigationView (Current 6-3-23)
+![Swift language on left side of screen with the iPhone simulation on the right half](/Images/fin?.png)
+### Features
+- Added responsive checkbox features by implementing States that update dynamically
+- Swipe feature to delete items from list and reset button to restore list back
+- "Toggle" button on bottom to hide tasks that have been marked as completed
+- Use of regular view and compact view to make sure screen displays correct data
+
+## Future Plans:
+- Ability to add your own tasks, no more hard coded arrays
+- ???
+- Profit
