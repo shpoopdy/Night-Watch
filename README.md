@@ -23,7 +23,7 @@ A reminder iOS app from PluralSight instruction
 - Extracted subviews to clean up code and moved one view to its own file
 
 ## NavigationView (Current 6-3-23)
-![iPhone simulation showing swipe features and checkmark capabilities](/Images/fin?.png)
+![iPhone simulation showing swipe features and checkmark capabilities](/Images/fin.png)
 ### Features
 - Added responsive checkbox features by implementing States that update dynamically
 - Swipe feature to delete items from list and reset button to restore list back
